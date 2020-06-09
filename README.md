@@ -1,4 +1,4 @@
-# SoccerAnalysis2
+# Soccer Analysis
 Analysis of soccer data/games
 
 Using the open data from StatsBomb, s/o them for their great stuff
